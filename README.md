@@ -34,16 +34,6 @@ cd ChatBotWithHistoryRetrieval
    ```
 3. Run the backend:
    ```sh
-   python app.py
-   ```
-
-### Frontend Setup (Streamlit)
-1. Install dependencies:
-   ```sh
-   pip install streamlit
-   ```
-2. Start the Streamlit UI:
-   ```sh
    streamlit run app.py
    ```
 
